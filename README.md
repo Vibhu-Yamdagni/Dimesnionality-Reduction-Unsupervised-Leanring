@@ -1,3 +1,2 @@
-# NoSQL-and-Dimesnionality-Reduction
-  - Working with MongoDB: Data Retrieval and Data Querying.  
+# NoSQL-and-Dimesnionality-Reduction.  
   - Dimensinality reduction and model building through PCA and LDA respectively.
