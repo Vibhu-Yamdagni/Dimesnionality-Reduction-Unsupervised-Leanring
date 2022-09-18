@@ -1,2 +1,2 @@
 # Dimesnionality-Reduction.  
-  - Dimensinality reduction and model building through PCA and LDA respectively.
+  - This JUpyter notebook conatins Python code for Dimensionality reduction and model building through PCA and LDA respectively.
